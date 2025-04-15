@@ -1,4 +1,4 @@
-# Project Title
+# EVL-MCoT
 
 The code has been uploaded. Detailed documentation and usage instructions will be provided later.
 
